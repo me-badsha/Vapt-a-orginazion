@@ -1,0 +1,6 @@
+# Vapt-a-orginazion
+Given Below Step by step what I am Doing my Project...
+<img width="307" alt="2" src="https://github.com/me-badsha/Vapt-a-orginazion/assets/54232503/f9f30109-683a-4c6f-a9a8-674237b4631e">
+
+<img width="250" alt="1" src="https://github.com/me-badsha/Vapt-a-orginazion/assets/54232503/6ad48fb1-64a4-4b72-a096-926ecf813ec3">
+Given Below Full Pdf.....
