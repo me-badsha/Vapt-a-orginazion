@@ -3,7 +3,7 @@ Given Below Step by step what I am Doing for my Project...
 If you want to Do Vapt on your site please contact with me:
 Badsha Faysal: https://www.linkedin.com/in/badshafaysal0/
 
-If you want to See full Vapt, Or want to Vapt 
+
 1)
 
 <img width="250" alt="1" src="https://github.com/me-badsha/Vapt-a-orginazion/assets/54232503/6ad48fb1-64a4-4b72-a096-926ecf813ec3">
