@@ -1,4 +1,4 @@
-# Vapt-a-orginazion
+# Vapt-a-origination
 Given Below Step by step what I am Doing for my Project...
 If you want to Do Vapt on your site please contact with me:
 Badsha Faysal: https://www.linkedin.com/in/badshafaysal0/
